@@ -3,7 +3,7 @@ import Constants from "expo-constants";
 import { Link } from "react-router-native";
 
 import theme from "../theme";
-import Text from "./Text";
+import Text from "./ui/Text";
 
 const styles = StyleSheet.create({
   container: {
